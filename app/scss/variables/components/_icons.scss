@@ -1,0 +1,31 @@
+.icon-large {
+  display: block;
+  width: 120px;
+  height: 120px;
+}
+
+.icon-small {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+}
+
+// social media icons
+.icon--twitter {
+  color: $color-twitter;
+}
+.icon--facebook {
+  color: $color-facebook;
+}
+.icon--instagram {
+  color: $color-instagram;
+}
+.icon--pinterest {
+  color: $color-pinterest;
+}
+.icon--youtube {
+  color: $color-youtube;
+}
+.icon--whatsapp {
+  color: $color-whatsapp;
+}
